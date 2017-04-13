@@ -1,3 +1,3 @@
 ### Yousif Touma
 
-[Mail me](yousif_touma@hotmail.com "Send me an email!").
+[Mail me](mailto://yousif_touma@hotmail.com "Send me an email!").
